@@ -59,7 +59,10 @@ But to defeat yourself is the most difficult task.)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nitesh-Ray/Nitesh-Ray/output/github-contribution-grid-snake.svg" />
+  <img
+  alt="snake eating my contributions"
+  src="https://raw.githubusercontent.com/Nitesh-Ray/Nitesh-Ray/main/output/github-contribution-grid-snake.svg"
+/>
   
   <br/><br/><br/>
 
